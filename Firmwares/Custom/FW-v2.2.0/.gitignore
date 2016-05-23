@@ -1,0 +1,11 @@
+bin/
+.config_lang
+.config_mach
+*.o
+*~
+*.orig
+*.swp
+*.rej
+*.bak
+*.DS_Store
+*.idea
